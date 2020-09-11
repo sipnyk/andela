@@ -1,0 +1,14 @@
+{
+    "name": "weather-app",
+    "short_name": "andela-weather",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "andela.png",
+            "sizes": "597 x 185",
+            "type": "png"
+        }
+    ]
+}
